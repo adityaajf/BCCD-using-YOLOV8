@@ -1,0 +1,7 @@
+
+train: /Users/adityapnv/Desktop/Documents/YOLO-BCCD/yolo_format/images/train
+val: /Users/adityapnv/Desktop/Documents/YOLO-BCCD/yolo_format/images/val
+test: /Users/adityapnv/Desktop/Documents/YOLO-BCCD/yolo_format/images/test
+
+nc: 3  # Number of classes
+names: ['WBC', 'RBC', 'Platelets']
